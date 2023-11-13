@@ -1,0 +1,13 @@
+#######################################################
+
+# Direct Host From Sweden (Europe)
+Server = https://mirror.accum.se/mirror/xerolinux.xyz/$repo/$arch
+
+# Direct Host From São Paulo, Brazil
+Server = https://gnlug.org/pub/xerolinux/$repo/$arch
+
+# Direct Host From South Korea
+Server = https://mirror.funami.tech/xerolinux/$repo/$arch
+
+# Private Fallback Server. To be used only in case of issues (US-Based).
+# Server = https://repos.xerolinux.xyz/$repo/$arch
