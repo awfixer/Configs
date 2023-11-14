@@ -1,0 +1,19 @@
+##
+## ALHP repository mirrorlist
+## Updated on 2023-08-31
+## https://somegit.dev/ALHP/alhp-mirrorlist
+##
+## There is an IPFS mirror available.
+## Setup instructions in /etc/pacman.d/alhp-mirrorlist.ipfs.
+##
+
+## Worldwide (Cloudfare)
+Server = https://alhp.krautflare.de/$repo/os/$arch/
+
+## Europe
+Server = https://mirror.sunred.org/alhp/$repo/os/$arch/
+Server = https://alhp.nox.panibrez.com/$repo/os/$arch/
+Server = https://alhp.dev/$repo/os/$arch/
+
+## Asia
+Server = https://mirrors.shanghaitech.edu.cn/alhp/$repo/os/$arch/
