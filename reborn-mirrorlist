@@ -1,0 +1,22 @@
+# --> RebornOS Mirrorlist from 20230729-1 <-- #
+
+# RebornOS repo: repo.rebornos.org - GEO Mirror
+Server = https://repo.rebornos.org/RebornOS/
+
+# RebornOS repo: nl-mirror.rebornos.org/RebornOS - NL Mirror (with redirection)
+Server = https://nl-mirror.rebornos.org/RebornOS/
+
+# New York Mirror (SoulHarsh007)
+Server = https://ny-mirror.soulharsh007.rocks/RebornOS/
+
+# APAC - US West Mirror (SoulHarsh007)
+Server = https://apac-us-mirror.soulharsh007.rocks/RebornOS/
+
+# Singapore mirror (panda):
+Server = https://mirror.freedif.org/rebornos/
+
+# RebornOS mirror.clarkson.edu
+Server = https://mirror.clarkson.edu/RebornOS/RebornOS/
+
+# Sourceforge mirror with redirection
+Server = https://sourceforge.net/projects/rebornos/files/r/RebornOS/
